@@ -28,6 +28,3 @@ This project predicts house prices based on various features such as area, bedro
 
 ## Outcome
 The model achieved approximately 78% prediction accuracy, demonstrating its ability to estimate house prices based on property features.
-
-
-## Author
